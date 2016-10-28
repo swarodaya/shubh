@@ -1,4 +1,4 @@
-baseurl = "http://swarodaya.github.io/shubh"
+baseurl = "https://swarodaya.github.io/shubh"
 publishdir = "public"
 languageCode = "en-us"
 title = "Shubh Consulting - Helping You Maximize Your Potential"
