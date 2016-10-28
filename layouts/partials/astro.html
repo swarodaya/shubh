@@ -1,0 +1,19 @@
+{{ "<!-- OVERVIEW -->" | safeHTML }}
+<section id="astro">
+    <div class="container">
+        <div class="row">
+					<div class="col-lg-3 text-center"></div>
+					<div class="col-lg-8 text-center">
+							<h2 class="section-heading">{{ with .Site.Params.astro.headline }}{{ . }}{{ end }}</h2>
+							<hr class="primary">
+							<h4>{{ with .Site.Params.astro.title }}{{ . | markdownify }}{{ end }}</h4>
+							<div class="text-left">
+								<p>{{ with .Site.Params.astro.description }}{{ . | markdownify }}{{ end }}</p><br/>
+								<p>{{ with .Site.Params.astro.text }}{{ . | markdownify }}{{ end }}</p>
+							</div>
+					</div>
+					<div class="col-lg-3 text-center"></div>
+        </div>
+    </div>
+</section>
+

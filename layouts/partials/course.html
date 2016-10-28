@@ -1,0 +1,9 @@
+{{ "<!-- ASIDE -->" | safeHTML }}
+<aside id="price"  class="bg-dark">
+    <div class="container text-center">
+				<h2>{{ with .Site.Params.course.headline | markdownify }}{{ . }}{{ end }}</h2>
+				<p>{{ with .Site.Params.course.text | markdownify }}{{ . }}{{ end }}</p>
+						{{ partial "prices.html" . }}
+						<h3>To book a consultation, write to us at <a href="mailto:info@shubhconsulting.in?subject=Book consultation">info@shubhconsulting.in</a> with your name, address, and phone.</h3>
+    </div>
+</aside>
