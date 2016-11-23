@@ -41,8 +41,8 @@ googleAnalytics = ""
     # Hero section
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-        slogan     = "Shubh Consulting<br/>Maximize Your Potential"
-        subtitle   = "&quot;We should insert a quote here.&quot;<br/>-&nbsp;Tapan Karecha."
+        slogan     = "Shubh Consulting"
+        subtitle   = "&quot;Maximize Your Potential.&quot;"
 
 		# Intro section
     [params.intro]
