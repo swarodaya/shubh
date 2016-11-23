@@ -1,7 +1,7 @@
 baseurl = "https://swarodaya.github.io/shubh"
 publishdir = "public"
 languageCode = "en-us"
-title = "Shubh Consulting - Helping You Maximize Your Potential"
+title = "Shubh Consulting - Maximize Your Potential"
 canonifyurls = false
 googleAnalytics = ""
 
@@ -13,7 +13,7 @@ googleAnalytics = ""
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Shubh Consulting"
-    description = "Helping You Maximize Your Potential"
+    description = "Maximize Your Potential"
 
     # The path must be relative to the static folder
     favicon = "favicon.png"
@@ -29,7 +29,7 @@ googleAnalytics = ""
             astro     = "Astrology"
             vastu     = "Vastu"
             numro     = "Numerology"
-            acharya   = "Acharya"
+            acharya   = "Consultants"
             contact   = "Contact"
             recentposts   = "Recent"
 
@@ -41,7 +41,7 @@ googleAnalytics = ""
     # Hero section
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-        slogan     = "Shubh Consulting<br/>Helping You Maximize Your Potential"
+        slogan     = "Shubh Consulting<br/>Maximize Your Potential"
         subtitle   = "&quot;We should insert a quote here.&quot;<br/>-&nbsp;Tapan Karecha."
 
 		# Intro section
@@ -64,41 +64,25 @@ googleAnalytics = ""
             text = "We consult businesses to help them: <ul> <li>Maximize profits and turnover.</li> <li>Improved working relationships with partners, staff and clients.</li> <li>Ensure smooth functioning of day-to-day affairs.</li> <li>Quality control and check.</li> <li>Ensuring on-time delivery of goods and services.</li> <li>Hiring of reliable and trust worthy staff.</li> <li>Clearing of consignments and completion of deals on time.</li> <li>Smooth dealing with government agencies and getting approvals.</li> <li>Procuring more orders and sales.</li> </ul> Consultation includes: <ul> <li><b>Astrology</b>: The astrological compatibly of the individuals involved in the business. Suitable remedies to overcome challenges in horoscope.</li> <li><b>Numerology</b>: The numerological compatibility of the individuals involved in the venture. Suitable suggestions to overcome problems posed by them, including study of the business name.</li> <li><b>Vastu</b>: Recommendations will be provided in matters of:</li> </ul> <ul> <li>Logo, Name, Banner and Visiting Card review and recommendations for improvement based on astrological and vaastu principles.</li> <li>Shapes and colors to be used at the entrance and exit doors.</li> <li>Shapes and colors to be used while designing the space.</li> <li>Placement of heavy and light machinery.</li> <li>Placement of computers, telephones and fax machines.</li> <li>Display, storage and dispatch of goods.</li> <li>Placement of important files and documents.</li> <li>Placement of cash registers and lockers.</li> <li>Sitting position for the business owners.</li> <li>Sitting position for managers of each department and their staff.</li> <li>Conference and meeting rooms.</li> <li>Reception desk and waiting areas for customers.</li> <li>Proper placement of drinking water coolers, pantry and canteens.</li> <li>Customized Solutions will be provided as per the nature and the needs of the business.</li> </ul>"
 
     # Aside section
-    [params.course]
-        headline = "Pricing for Consultation"
-        text = "---"
-				listheadline = "Course Schedule"
-
-        [[params.course.list]]
-            title = "**Day 1**<br/>_Nadis_"
-            text = "<ul> <li>Introduction to the Swar Yog.</li> <li>Understanding, usage, and activation of the three Nadis (Ida, Pingala, and Susuhmana).</li> <li>Nadi meditation.</li> </ul>"
-
-
-        [[params.course.list]]
-            title = "**Day 2**<br/>_Tatwas_"
-            text = "<ul> <li>Introduction to the five Tatwas (space, air, fire, water, and earth).</li> <li>Understanding, usage, and activation of the five Tatwas.</li> <li>Tatwa meditation.</li> </ul>"
-
-
-        [[params.course.list]]
-            title = "**Day 3**<br/>_Practicals_"
-            text = "<ul> <li>Introduction and usage of the Swar Saptang.</li> <li>Introduction and usage of the Swar log.</li> <li>Tatwa experience in the real world (site visit).</li> </ul>"
-
-        [[params.course.list]]
-            title = "**Day 4**<br/>_Advanced_"
-            text = "<ul> <li>Tatwa sthapana (advance meditation).</li> <li>Forty Five Devtas of the Vastu Purush Mandal.</li> <li>Questions and Answers.</li> <li>Graduation.</li> </ul>"
-
-		# Acharya section
+		# Consultants section
     [params.acharya]
-        headline = "Krupa Maharaj"
-        title = "Batch of Sept, 2016<br/>Goa"
+        headline = "Consultants"
+
+    [params.acharya.astro]
+        title = "Astrology and Numerology"
         img = "acharya.jpg"
-        text   = "Krup Maharaj is a Jyotish Practitioner.<br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum eros id libero consectetur, in finibus dui venenatis. Nulla commodo feugiat odio quis ornare. Phasellus rhoncus libero ut viverra interdum. Praesent ornare sagittis vehicula. Proin tristique, purus id blandit venenatis, justo lectus condimentum ante, et viverra urna lorem non est. Suspendisse potenti. Aenean in suscipit mauris, dictum molestie nibh."
+        text = "Krupa Sinroja Dalal has been studying astrology from a very young age. She inherited the interests towards occult sciences from her father, who taught her the basics of Astrology.<br/><br/>While having a successful career in the banking industry, she realised that no matter what career, class, or creed one belongs to, destiny always has its way and the stars make their presence felt in one’s life. After having a lot of successful case within the circle of family and friends, she started to help people within the community and guided them to better their lives with Graphology and Numerology.<br/><br/>With an experience of more than 15 years, she is respected for her deep knowledge of the subject of Astrology and Numerology and easy-to-work-with attitude."
+
+    [params.acharya.vastu]
+        title = "Vastu"
+        img = "acharya.jpg"
+        text = "Vastu consultant Seema Karecha, hails from a cultural background of artistic lineage. She holds degrees in Philosophy, Psychology, and English literature.<br/><br/>As an explorer of timeless wisdom, she paved her spiritual journey through Yog sutras of Patanjali, Bhagwad Geeta and Mahabharata, Vastu Shastra by Shri Khushdeep Bansal, and Swar Yog by inspiration of accomplished gurus. In her training program, she has simplified the mystical science of Vastu for to reap it’s benefits for common man fora better life."
 
 		# Astro section
     [params.astro]
         headline = "Astrology"
         title = "The Influence of Celestial Bodies"
-        text   = "Jyothish is an ancient traditional Hindu system of astrology, and is one of the most time-tested and oldest systems in the world. The Sanskrit word ‘Jyotish’ (ja-yo-teesh) means ‘science of light.’ In the western world, it is also called Vedic astrology. The origins of Vedic astrology are in the Vedas — the ancient scriptures of Hindus. Vedic astrology is the science of understanding the influence of heavenly bodies on our life. The science of light is not the visible light, but light that enlightens the inner self; which minimizes uncertainty; which allows us to plan our future, to improve our odds in our favor and to reduce the risk of failure.  <br/><br/> When practiced correctly, Vedic astrology is an excellent tool within Sanatan Dharm and can help avoid pitfalls and take remedial action to achieve a smoother, balanced life, as we strive for material and spiritual progress.  <br/><br/> Sanatan Dharm promotes harmony, encourages us to seek resonance with our surroundings, and teaches us that alignment between the individual and the forces of the universe is desirable. Through tools such as vastu, ayurved, numerology and jyotish, we align our vibrations with those of the universe for a happy, productive and an ideal life; and we seek perfection.  <br/><br/> Spirituality is the basis of Vedic astrology and it is designed to reveal the inner person. Changing the inner person can also change his/her outer life. By studying the planets and their relationships, we can determine their influences on our well being, and consequently chart a path towards prosperity, health, happiness, and the ultimate goal — moksh.  <br/><br/> Vedic astrology is unique in that it offers simple solutions to compensate for the influences of celestial bodies. Therapies include mantras, meditation, rituals, gems, and spiritual suggestions. Therefore like vastu and ayurved, Vedic astrology offers solutions to people so they can gain control over their life.  <br/><br/> The astrologer uses Vedic astrology to chart the horoscope of an individual. It is said that a horoscope in your hands is a map of your destiny. The secrets contained in the horoscope can only be revealed by a Vedic astrologer. The birth-chart, or horoscope, is a symbolic representation of the Earth, planets, and stars at the time of one’s birth. It is a divine language, a mystic code by which God has communicated a person’s destiny, knowing which, a wise person will exercise his free will to optimize the result.  <br/><br/> At Shubh Consulting, we provide you with effective astrological solutions, and our remedies include use of gem stones and mantras which help you overcome obstacles in life with ease and achieve your goals in life."
+        text   = "Jyothish is an ancient traditional Hindu system of astrology, and is one of the most time-tested and oldest systems in the world. The Sanskrit word ‘Jyotish’ (ja-yo-teesh) means ‘science of light.’ In the western world, it is also called Vedic astrology. The origins of Vedic astrology are in the Vedas — the ancient scriptures of Hindus. Vedic astrology is the science of understanding the influence of heavenly bodies on our life. The science of light is not the visible light, but light that enlightens the inner self; which minimizes uncertainty; which allows us to plan our future, to improve our odds in our favor and to reduce the risk of failure.<br/><br/> When practiced correctly, Vedic astrology is an excellent tool within Sanatan Dharm and can help avoid pitfalls and take remedial action to achieve a smoother, balanced life, as we strive for material and spiritual progress.  <br/><br/> Sanatan Dharm promotes harmony, encourages us to seek resonance with our surroundings, and teaches us that alignment between the individual and the forces of the universe is desirable. Through tools such as vastu, ayurved, numerology and jyotish, we align our vibrations with those of the universe for a happy, productive and an ideal life; and we seek perfection.  <br/><br/> Spirituality is the basis of Vedic astrology and it is designed to reveal the inner person. Changing the inner person can also change his/her outer life. By studying the planets and their relationships, we can determine their influences on our well being, and consequently chart a path towards prosperity, health, happiness, and the ultimate goal — moksh.  <br/><br/> Vedic astrology is unique in that it offers simple solutions to compensate for the influences of celestial bodies. Therapies include mantras, meditation, rituals, gems, and spiritual suggestions. Therefore like vastu and ayurved, Vedic astrology offers solutions to people so they can gain control over their life.  <br/><br/> The astrologer uses Vedic astrology to chart the horoscope of an individual. It is said that a horoscope in your hands is a map of your destiny. The secrets contained in the horoscope can only be revealed by a Vedic astrologer. The birth-chart, or horoscope, is a symbolic representation of the Earth, planets, and stars at the time of one’s birth. It is a divine language, a mystic code by which God has communicated a person’s destiny, knowing which, a wise person will exercise his free will to optimize the result.  <br/><br/> At Shubh Consulting, we provide you with effective astrological solutions, and our remedies include use of gem stones and mantras which help you overcome obstacles in life with ease and achieve your goals in life."
 
 		# Vastu section
     [params.vastu]
@@ -126,9 +110,5 @@ googleAnalytics = ""
             text = "[info@shubhconsulting.in](mailto:info@shubhconsulting.in?subject=General Inquiry)"
 
         [[params.contact.list]]
-            icon = "fa-facebook"
-            text = "[https://www.facebook.com/shubhconsulting/](https://www.facebook.com/shubhconsulting/)"
-
-        [[params.contact.list]]
             icon = "fa-phone"
-            text = "+91-9876-543210"
+            text = "+91-9825600347"
