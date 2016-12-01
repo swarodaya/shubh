@@ -69,14 +69,14 @@ googleAnalytics = ""
         headline = "Consultants"
 
     [params.acharya.astro]
-        title = "Astrology and Numerology"
+        title = "Astrology and Numerology<br/>**Krupa Sinroja Dalal**"
         img = "acharya.jpg"
-        text = "Krupa Sinroja Dalal has been studying astrology from a very young age. She inherited the interests towards occult sciences from her father, who taught her the basics of Astrology.<br/><br/>While having a successful career in the banking industry, she realised that no matter what career, class, or creed one belongs to, destiny always has its way and the stars make their presence felt in one’s life. After having a lot of successful case within the circle of family and friends, she started to help people within the community and guided them to better their lives with Graphology and Numerology.<br/><br/>With an experience of more than 15 years, she is respected for her deep knowledge of the subject of Astrology and Numerology and easy-to-work-with attitude."
+        text = "*Krupa Sinroja Dalal* has been studying astrology from a very young age. She inherited the interests towards occult sciences from her father, who taught her the basics of Astrology.<br/><br/>While having a successful career in the banking industry, she realised that no matter what career, class, or creed one belongs to, destiny always has its way and the stars make their presence felt in one’s life. After having a lot of successful case within the circle of family and friends, she started to help people within the community and guided them to better their lives with Graphology and Numerology.<br/><br/>With an experience of more than 15 years, she is respected for her deep knowledge of the subject of Astrology and Numerology and easy-to-work-with attitude."
 
     [params.acharya.vastu]
-        title = "Vastu"
+        title = "Vastu Shastra<br/>**Seema Karecha**"
         img = "acharya.jpg"
-        text = "Vastu consultant Seema Karecha, hails from a cultural background of artistic lineage. She holds degrees in Philosophy, Psychology, and English literature.<br/><br/>As an explorer of timeless wisdom, she paved her spiritual journey through Yog sutras of Patanjali, Bhagwad Geeta and Mahabharata, Vastu Shastra by Shri Khushdeep Bansal, and Swar Yog by inspiration of accomplished gurus. In her training program, she has simplified the mystical science of Vastu for to reap it’s benefits for common man fora better life."
+        text = "Vastu consultant *Seema Karecha* hails from a cultural background of artistic lineage. She holds degrees in Philosophy, Psychology, and English literature.<br/><br/>As an explorer of timeless wisdom, she paved her spiritual journey through Yog sutras of Patanjali, Bhagwad Geeta and Mahabharata, Vastu Shastra by Shri Khushdeep Bansal, and Swar Yog by inspiration of accomplished gurus. In her training program, she has simplified the mystical science of Vastu for to reap it’s benefits for common man fora better life."
 
 		# Astro section
     [params.astro]
