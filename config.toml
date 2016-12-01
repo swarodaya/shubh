@@ -34,7 +34,7 @@ googleAnalytics = ""
             recentposts   = "Recent"
 
     [[menu.main]]
-        name = "Blog"
+        name = "F.A.Q."
         identifier = "blog"
         url = "/blog/"
 

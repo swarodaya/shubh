@@ -3,6 +3,7 @@
     <div class="header-content">
         <div class="header-content-inner">
 						<img src="logo.png">
+            <hr>
             <h1>{{ with .Site.Params.hero.slogan }}{{ . | markdownify }}{{ end }}</h1>
             <hr>
             <p>{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</p>
