@@ -35,8 +35,8 @@ googleAnalytics = ""
 
     [[menu.main]]
         name = "F.A.Q."
-        identifier = "blog"
-        url = "/blog/"
+        identifier = "faq"
+        url = "/../faq/"
 
     # Hero section
     [params.hero]
