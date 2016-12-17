@@ -8,7 +8,7 @@ else
 	echo "Files cleand up"
 fi
 
-rm -r $trgt/{faq,blog,css,img,js}
+rm -r $trgt/{faq,css,img,js}
 if (( $? )); then
 	echo "Error while cleaning up folders" >&2
 	exit 1
