@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shubh Consulting - Maximize Your Potential</title>
-    <link>http://shubhconsulting.in/index.xml</link>
+    <link>http://shubhconsulting.in/</link>
     <description>Recent content on Shubh Consulting - Maximize Your Potential</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://shubhconsulting.in/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://shubhconsulting.in/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>F.A.Q.</title>
@@ -15,46 +17,10 @@
       <pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>http://shubhconsulting.in/faq/20161028-faq/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. What are the factors on which Vastu Shastra is based?&lt;br /&gt;
-Vastu Shastra is a combination to Bio energy force, gravitational force, magnetic field of earth, solar energy, velocity of wind and cosmic radiations.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. How does Vastu Shastra work in apartment blocks?&lt;br /&gt;
-Originally, the rules of Vastu Shastra prescribes the type of sites on which a home is to be build and specifies the layout of materials and construction techniques. In the present context, many of us live in apartments in cities. With macro-level implications, Vastu Shastra can be adapted successfully in apartments too.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. Are all remedies an integral part of Vastu Shastra?&lt;br /&gt;
-No, remedies were never discussed or written in any of the Vedas. Pyramids, Mirrors, Yantras, Lights and Colors etc are used to help in improving the environment, thought process and general happiness with in the household.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. What is the basic difference between Vastu Shastra and Feng Shui?&lt;br /&gt;
-Vastu Shastra is primarily a pre construction science while Feng-Shui is a post construction art.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. When will I start to notice the benefits of Vastu?&lt;br /&gt;
-When the elements are balanced in your environment, opportunities will come. It is up to you to utilize these opportunities. You may notice some improvements right away; others may take up few months too.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. Can I get these benefits living anywhere in the world?&lt;br /&gt;
-Yes. Vastu changes have been implemented successfully, anywhere in the world.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. How do you undertake project oversees?&lt;br /&gt;
-We have clientele based in UK and Europe. We use Google Map and Google Earth to mark directions effectively, and use Skype and Internet for better communication. With these modern day tools, we have been successful in transforming spaces as per the aspirations of the client.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. Can this transformation be effective in commercial places too?&lt;br /&gt;
-Yes. The laws of nature are universal. They are equally effective when done in Schools, Industries, Shops, Commercial complexes, Factories, Art galleries etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. What documents do I need to provide to make this transformation a success ?&lt;br /&gt;
-You need to provide us with a&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;To scale floor plan of your home/shop/factory or business unit.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;your date, time and place of birth.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;a sample of your signature.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. What are your service charges?&lt;br /&gt;
-Service charges depend on the complexity of the problem the client is facing and challenges posed by the floor plan of the house.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Q&lt;/em&gt;. Yes, that’s all very good, but I still have questions.&lt;br /&gt;
-That’s nice. You may write to us or talk to us.&lt;/p&gt;
-</description>
+      <description>Q. What are the factors on which Vastu Shastra is based?
+Vastu Shastra is a combination to Bio energy force, gravitational force, magnetic field of earth, solar energy, velocity of wind and cosmic radiations.
+Q. How does Vastu Shastra work in apartment blocks?
+Originally, the rules of Vastu Shastra prescribes the type of sites on which a home is to be build and specifies the layout of materials and construction techniques.</description>
     </item>
     
   </channel>
