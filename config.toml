@@ -13,7 +13,7 @@ googleAnalytics = ""
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
     name = "Shubh Consulting"
-    description = "Maximize Your Potential"
+    description = "Astrology is a Language. If you understand this language, The Sky Speaks to You."
 
     # The path must be relative to the static folder
     favicon = "favicon.png"
@@ -29,7 +29,7 @@ googleAnalytics = ""
             astro     = "Astrology"
             vastu     = "Vastu"
             numro     = "Numerology"
-            acharya   = "Consultants"
+            acharya   = "Consultant"
             contact   = "Contact"
             recentposts   = "Recent"
 
@@ -42,7 +42,7 @@ googleAnalytics = ""
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
         slogan     = "Shubh Consulting"
-        subtitle   = "&quot;Maximize Your Potential.&quot;"
+        subtitle   = "Astrology is a Language. If you understand this language, The Sky Speaks to You."
 
 		# Intro section
     [params.intro]
@@ -66,17 +66,12 @@ googleAnalytics = ""
     # Aside section
 		# Consultants section
     [params.acharya]
-        headline = "Consultants"
+        headline = "Consultant"
 
     [params.acharya.astro]
-        title = "Astrology and Numerology<br/>**Krupa Sinroja Dalal**"
+        title = "**Krupa Sinroja Dalal**"
         img = "acharya.jpg"
-        text = "*Krupa Sinroja Dalal* has been studying astrology from a very young age. She inherited the interests towards occult sciences from her father, who taught her the basics of Astrology.<br/><br/>While having a successful career in the banking industry, she realised that no matter what career, class, or creed one belongs to, destiny always has its way and the stars make their presence felt in one’s life. After having a lot of success with cases within the circle of family and friends, she started to help people within the community and guided them to a better life with Astrology and Numerology.<br/><br/>With an experience of more than 15 years, she is respected for her deep knowledge of the subject of Astrology and Numerology and easy-to-work-with attitude."
-
-    [params.acharya.vastu]
-        title = "Vastu Shastra<br/>**Seema Karecha**"
-        img = "acharya.jpg"
-        text = "Vastu consultant *Seema Karecha* hails from a cultural background of artistic lineage. She holds degrees in Philosophy, Psychology, and English literature.<br/><br/>As an explorer of timeless wisdom, she paved her spiritual journey through Yog sutras of Patanjali, Bhagwad Geeta and Mahabharata, Vastu Shastra by Shri Khushdeep Bansal, and Swar Yog by inspiration of accomplished gurus. In her training program, she has simplified the mystical science of Vastu for to reap it’s benefits for common man fora better life."
+        text = "*Krupa Sinroja Dalal* has been studying astrology from a very young age. She inherited the interests towards occult sciences from her father, who taught her the basics of Astrology and Vastu.<br/><br/>While having a successful career in the banking industry, she realised that no matter what career, class, or creed one belongs to, destiny always has its way and the stars make their presence felt in one’s life. After having a lot of success with cases within the circle of family, friends, and colleagues, she started to help people within the community and guided them to a better life with Astrology, Vastu, and Numerology.<br/><br/>With an experience of more than 25 years, she is respected for her deep knowledge of the subject of Astrology, Vastu, and Numerology; and an easy-to-work-with attitude.<br/><br/>In her work, she combines her expertise to provide unique Astro-Vastu solutions. She also teaches these sciences in individual one-to-one sessions." 
 
 		# Astro section
     [params.astro]

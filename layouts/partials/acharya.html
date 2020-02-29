@@ -10,22 +10,13 @@
     </div>
     <div class="container-fluid">
         <div class="row">
-					<div class="col-lg-2"></div>
+					<div class="col-lg-4"></div>
 					<div class="col-lg-4 col-md-12 text-left">
-							<div class="service-box" style="min-height: 190px;">
-									<h3 class="section-heading text-center">{{ with .Site.Params.acharya.astro.title }}{{ . | markdownify }}{{ end }}</h3>
-									<!-- p><img src="img/acharya/acharya.jpg" class="img-responsive" alt=""></p><br/ -->
-									<p>{{ with .Site.Params.acharya.astro.text }}{{ . | markdownify }}{{ end }}</p>
-							</div>
+						<h3 class="section-heading text-center">{{ with .Site.Params.acharya.astro.title }}{{ . | markdownify }}{{ end }}</h3>
+						<!-- p><img src="img/acharya/acharya.jpg" class="img-responsive" alt=""></p><br/ -->
+						<p>{{ with .Site.Params.acharya.astro.text }}{{ . | markdownify }}{{ end }}</p>
 					</div>
-					<div class="col-lg-4 col-md-12 text-left">
-							<div class="service-box" style="min-height: 190px;">
-									<h3 class="section-heading text-center">{{ with .Site.Params.acharya.vastu.title }}{{ . | markdownify }}{{ end }}</h3>
-									<!-- p><img src="img/acharya/acharya.jpg" class="img-responsive" alt=""></p><br/ -->
-									<p>{{ with .Site.Params.acharya.vastu.text }}{{ . | markdownify }}{{ end }}</p>
-							</div>
-					</div>
-					<div class="col-lg-2"></div>
+					<div class="col-lg-4"></div>
         </div>
     </div>
 </section>
