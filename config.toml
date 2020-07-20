@@ -41,12 +41,12 @@ googleAnalytics = ""
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
         slogan     = "Shubh Consulting"
-        subtitle   = "Astrology is a Language. If you understand this language, The Sky Speaks to You."
+        subtitle   = "Astrology, Vastu and Numerology Services"
 
 		# Intro section
     [params.intro]
         headline = "Introduction"
-        text   = "Shubh consulting helps you transform life through the knowledge of Astrology, Numerology and Vastu. We help you optimize your potential, transform your challenges into opportunities, and your aspirations and dreams into reality.<br/><br/>When you consult us, you will come to know the exact Astrological, Numerological and Vastu reasons for the problems that you face in your life."
+        text   = "Shubh Consulting helps you transform life through the knowledge of Astrology, Vastu and Numerology. We help you optimize your potential, transform your challenges into opportunities, and lead a prosperous and holistic life.<br/><br/>When you consult us, you will come to know the exact Astrological, Vastu and Numerological reasons for the problems that you face in your life and how you can overcome them with very simple and effective solutions."
 
     # Aside section
 		# Consultants section
