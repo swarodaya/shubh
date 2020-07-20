@@ -102,7 +102,7 @@ googleAnalytics = ""
 
         [[params.contact.list]]
             icon = "fa-envelope"
-            text = "[info@shubhconsulting.in](mailto:info@shubhconsulting.in?subject=General Inquiry)"
+            text = "info@shubhconsulting.in"
 
         [[params.contact.list]]
             icon = "fa-phone"
