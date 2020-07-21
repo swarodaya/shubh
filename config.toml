@@ -31,7 +31,6 @@ googleAnalytics = ""
             astro     = "Astrology"
             vastu     = "Vastu"
             numro     = "Numerology"
-            acharya   = "Consultant"
             contact   = "Contact"
             recentposts   = "Recent"
 
@@ -49,18 +48,7 @@ googleAnalytics = ""
 		# Intro section
     [params.intro]
         headline = "Introduction"
-        text   = "Shubh Consulting helps you transform life through the knowledge of Astrology, Vastu and Numerology. We help you optimize your potential, transform your challenges into opportunities, and lead a prosperous and holistic life.<br/><br/>When you consult us, you will come to know the exact Astrological, Vastu and Numerological reasons for the problems that you face in your life and how you can overcome them with very simple and effective solutions."
-
-    # Aside section
-		# Consultants section
-    [params.acharya]
-        headline = "Consultant"
-
-    [params.acharya.astro]
-        title = "**Krupa Sinroja Dalal**"
-        img = "acharya.jpg"
-        text = "Shubh Consulting is a venture of *Krupa Sinroja Dalal*, started with an intention to provide very simple and yet effective solutions to life challenges, through the ancient vedic wisdom of India. She has been studying astrology from a very young age and inherited the interests of occult sciences from her father, who taught her the basics of Astrology and Vastu-shastra at a very young age.<br/><br/>While having a successful career in the banking industry, she realised that no matter what career, class, or creed one belongs to, destiny always has its way and the stars make their presence felt in one’s life. After having a lot of success with cases within the circle of family, friends, and colleagues, she started to help people within the community and guided them to a better life with Astrology, Vastu, Numerology and Signature Analysis.<br/><br/>With an experience of more than 25 years, she is respected for her deep knowledge of the subject of Astrology, Vastu, and Numerology. She has an easy-to-work-with attitude and has provided simple and yet, customised solutions to many individuals - whether professionals, business owners or industrialists. She also teaches these sciences in individual one-to-one sessions."
-
+        text   = "Shubh Consulting helps you transform life through the knowledge of Astrology, Vastu and Numerology. We help you optimize your potential, transform your challenges into opportunities, and lead a prosperous and holistic life.<br/><br/>Shubh Consulting is a venture of *Krupa Sinroja Dalal*, started with an intention to provide very simple and yet effective solutions to life challenges, through the ancient vedic wisdom of India. She has been studying astrology from a very young age and inherited the interests of occult sciences from her father, who taught her the basics of Astrology and Vastu-shastra at a very young age.<br/><br/>While having a successful career in the banking industry, she realised that no matter what career, class, or creed one belongs to, destiny always has its way and the stars make their presence felt in one’s life. After having a lot of success with cases within the circle of family, friends, and colleagues, she started to help people within the community and guided them to a better life with Astrology, Vastu, Numerology and Signature Analysis.<br/><br/>With an experience of more than 25 years, she is respected for her deep knowledge of the subject of Astrology, Vastu, and Numerology. She has an easy-to-work-with attitude and has provided simple and yet, customised solutions to many individuals - whether professionals, business owners or industrialists. She also teaches these sciences in individual one-to-one sessions."
 
 		# Astro section
     [params.astro]
