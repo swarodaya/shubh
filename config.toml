@@ -28,9 +28,9 @@ googleAnalytics = ""
 
         [params.navigation.links]
             intro     = "Intro"
-            astro     = "Astrology"
+            astro     = "Astro"
             vastu     = "Vastu"
-            numro     = "Numerology"
+            numro     = "Numero"
             contact   = "Contact"
             recentposts   = "Recent"
 
