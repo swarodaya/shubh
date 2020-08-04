@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+
+        {{ partial "nav-affix.html" . }}
+
+	<section id="testimonials">
+		<div class="text-center">
+		<h2 class="section-heading">Testimonials</h2>
+		<hr class="primary">
+		</div>
+	    <div class="container-fluid">
+		<div class="row">
+		    {{ range .Site.Params.testimonials.list }}
+		    <div class="col-lg-4 col-sm-6">
+			<a href="#testimonialsModal{{ .modalID }}" class="portfolio-box portfolio-link" data-toggle="modal">
+			    <img src="../img/testimonials/{{ .img }}" class="img-responsive" alt="">
+			    <div class="portfolio-box-caption">
+				<div class="portfolio-box-caption-content">
+				    <div class="project-category text-faded">
+					{{ .category }}
+				    </div>
+				    <div class="project-name">
+																{{ .title | markdownify }}
+				    </div>
+				</div>
+			    </div>
+			</a>
+		        <br/>
+		    </div>
+		    {{ end }}
+		</div>
+	    </div>
+	</section>
+    </body>
+    {{ partial "footer.html" . }}
+    {{ partial "js.html" . }}
+</html>
+
+
+

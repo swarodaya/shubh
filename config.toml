@@ -35,9 +35,9 @@ googleAnalytics = ""
             recentposts   = "Recent"
 
     [[menu.main]]
-        name = "F.A.Q."
-        identifier = "faq"
-        url = "http://shubhconsulting.in/faq/"
+        name = "Testimonials"
+        identifier = "testimonials"
+        url = "/testimonials/"
 
     # Hero section
     [params.hero]
@@ -88,3 +88,68 @@ googleAnalytics = ""
         [[params.contact.list]]
             icon = "fa-phone"
             text = "+91-9825600347"
+
+	[params.testimonials]
+		headline = "Testimonials"
+		description = "Click on image for details"
+
+	[[params.testimonials.list]]
+		modalID = 1
+		title = "Ajay Batra"
+		img = "ajay_batra.png"
+
+	[[params.testimonials.list]]
+		modalID = 2
+		title = "Aman"
+		img = "aman.png"
+
+	[[params.testimonials.list]]
+		modalID = 3
+		title = "Chirag Panchal"
+		img = "chirag_panchal.png"
+
+	[[params.testimonials.list]]
+		modalID = 4
+		title = "Ddevya Sharma"
+		img = "ddevya_sharma.png"
+
+	[[params.testimonials.list]]
+		modalID = 5
+		title = "Dr. Archa"
+		img = "dr_archa.png"
+
+	[[params.testimonials.list]]
+		modalID = 6
+		title = "Hina Modashia"
+		img = "hina_modashia.png"
+
+	[[params.testimonials.list]]
+		modalID = 7
+		title = "Jaideep Sippy"
+		img = "jaideep_sippy.png"
+
+	[[params.testimonials.list]]
+		modalID = 8
+		title = "Kinnari Mankotia"
+		img = "kinnari_mankotia.png"
+
+	[[params.testimonials.list]]
+		modalID = 9
+		title = "Rutvi Sonawala"
+		img = "rutvi_sonawala.png"
+
+	[[params.testimonials.list]]
+		modalID = 10
+		title = "Shiva Kumar"
+		img = "shiva_kumar.png"
+
+	[[params.testimonials.list]]
+		modalID = 11
+		title = "Uma Aggarwal"
+		img = "uma_aggarwal.png"
+
+	[[params.testimonials.list]]
+		modalID = 12
+		title = "Umesh Sharma"
+		img = "umesh_sharma.png"
+
