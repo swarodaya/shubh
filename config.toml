@@ -100,7 +100,7 @@ googleAnalytics = ""
 
 	[[params.testimonials.list]]
 		modalID = 2
-		title = "Aman"
+		title = "Aman Gupta"
 		img = "aman.png"
 
 	[[params.testimonials.list]]
