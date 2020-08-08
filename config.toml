@@ -1,4 +1,4 @@
-baseurl = "http://shubhconsulting.in/"
+baseurl = "https://shubhconsulting.in/"
 publishdir = "public"
 languageCode = "en-us"
 title = "Shubh Consulting - Maximize Your Potential"
